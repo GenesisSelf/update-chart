@@ -1,24 +1,34 @@
 import 'rc-slider/assets/index.css';
 import 'rc-tooltip/assets/bootstrap.css';
-import React, { useState } from 'react';
+import React from 'react';
 import Slider from 'rc-slider';
-import handle from './handle'
 
 const createSliderWithTooltip = Slider.createSliderWithTooltip;
 const Range = createSliderWithTooltip(Slider.Range);
 
-const SliderRange = props => {
-  // const [value, setValue] = useState(0);
-  const wrapperStyle = { paddingTop: 20, paddingBottom: 40, paddingLeft: 10, paddingRight: 10 };
-  // console.log(value, "valuesadskjfnkj")
+const wrapperStyle = { 
+  paddingTop: 20,
+  paddingBottom: 40,
+  paddingLeft: 10,
+  paddingRight: 10 
+};
 
-  // const handleOnChange = (e) => console.log(e.target.value)
-  function renderValue(value) { return `${value}`}
-  return (
-    <div style={wrapperStyle}>
-      <Range min={1926} max={2019} defaultValue={[1926, 2019]} tipFormatter={(value) => `${value}`} handle={handle} />
-    </div>
-  )
+class SliderRange extends React.Component {
+  constructor(props) {
+    super(props);
+    this.state = {
+      lowerBound: 1926,
+      upperBound: 2019,
+      value: [1926, 2019],
+    };
+  }
+
+  render() {
+    return (
+      <div style={wrapperStyle}>
+        <Range min={this.state.lowerBound} max={this.state.upperBound} defaultValue={[1926, 2019]} tipFormatter={(value) => `${value}`} allowCross={false} onChange={this.props.onChange} value={this.props.value} />
+      </div>
+    )};
 }
 
 export default SliderRange;
