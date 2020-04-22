@@ -2,7 +2,7 @@
 
 ## Requirements
 ---------
-
+```
 1. Download S&P 500 index returns by year (https://www.slickcharts.com/sp500/returns)
 
 2. Build a single page app which shows a table similar to how it is displayed in the slickcharts link above
@@ -35,7 +35,7 @@ the table below would show only those 11 rows (2000 - 2010 both inclusive) and t
 
  
 
-You may upload the repository to GitHub under your profile once you are done
+You may upload the repository to GitHub under your profile once you are done```
 
  
 
