@@ -1,0 +1,87 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SliderRange renders correctly 1`] = `
+<div
+  style={
+    Object {
+      "paddingBottom": 40,
+      "paddingLeft": 10,
+      "paddingRight": 10,
+      "paddingTop": 20,
+    }
+  }
+>
+  <div
+    className="rc-slider"
+    onBlur={[Function]}
+    onFocus={[Function]}
+    onKeyDown={[Function]}
+    onMouseDown={[Function]}
+    onMouseUp={[Function]}
+    onTouchStart={[Function]}
+  >
+    <div
+      className="rc-slider-rail"
+      style={Object {}}
+    />
+    <div
+      className="rc-slider-track rc-slider-track-1"
+      style={
+        Object {
+          "left": "0%",
+          "right": "auto",
+          "width": "100%",
+        }
+      }
+    />
+    <div
+      className="rc-slider-step"
+    />
+    <div
+      aria-disabled={false}
+      aria-valuemax={2019}
+      aria-valuemin={1926}
+      aria-valuenow={1926}
+      className="rc-slider-handle rc-slider-handle-1"
+      onBlur={[Function]}
+      onKeyDown={[Function]}
+      onMouseDown={[Function]}
+      onMouseEnter={[Function]}
+      onMouseLeave={[Function]}
+      role="slider"
+      style={
+        Object {
+          "left": "0%",
+          "right": "auto",
+          "transform": "translateX(-50%)",
+        }
+      }
+      tabIndex={0}
+    />
+    <div
+      aria-disabled={false}
+      aria-valuemax={2019}
+      aria-valuemin={1926}
+      aria-valuenow={2019}
+      className="rc-slider-handle rc-slider-handle-2"
+      onBlur={[Function]}
+      onKeyDown={[Function]}
+      onMouseDown={[Function]}
+      onMouseEnter={[Function]}
+      onMouseLeave={[Function]}
+      role="slider"
+      style={
+        Object {
+          "left": "100%",
+          "right": "auto",
+          "transform": "translateX(-50%)",
+        }
+      }
+      tabIndex={0}
+    />
+    <div
+      className="rc-slider-mark"
+    />
+  </div>
+</div>
+`;

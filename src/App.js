@@ -10,7 +10,7 @@ export default class App extends React.Component {
     this.state = {
       lowerBound: 1926,
       upperBound: 2019,
-      value: [1926, 2019],
+      value: [ 1926, 2019 ],
     };
   }
   
@@ -27,16 +27,16 @@ export default class App extends React.Component {
 
   handleApply = () => {
     const { lowerBound, upperBound } = this.state;
-    this.setState({ value: [lowerBound, upperBound] });
+    this.setState({ value: [ lowerBound, upperBound ] });
   };
 
   render() {
     return(
-    <div className="App">
-      <Header />
-      <SliderRange value={this.state.value} onChange={this.onSliderChange} />
-      <TableComponent value={this.state.value} />
-    </div>
+        <div className="App">
+            <Header />
+            <SliderRange value={ this.state.value } onChange={ this.onSliderChange } />
+            <TableComponent value={ this.state.value } />
+        </div>
     );
   }
 }

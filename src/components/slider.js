@@ -19,16 +19,17 @@ class SliderRange extends React.Component {
     this.state = {
       lowerBound: 1926,
       upperBound: 2019,
-      value: [1926, 2019],
+      value: [ 1926, 2019 ],
     };
   }
 
   render() {
     return (
-      <div style={wrapperStyle}>
-        <Range min={this.state.lowerBound} max={this.state.upperBound} defaultValue={[1926, 2019]} tipFormatter={(value) => `${value}`} allowCross={false} onChange={this.props.onChange} value={this.props.value} />
-      </div>
-    )};
+        <div style={ wrapperStyle }>
+            <Range min={ this.state.lowerBound } max={ this.state.upperBound } defaultValue={ [ 1926, 2019 ] } tipFormatter={ (value) => `${ value }` } allowCross={ false } onChange={ this.props.onChange } value={ this.props.value } />
+        </div>
+    )
+  };
 }
 
 export default SliderRange;

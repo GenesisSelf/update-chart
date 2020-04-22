@@ -1,0 +1,1912 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TableComponent it renders correctly 1`] = `
+<div>
+  <div
+    className="MuiPaper-root MuiTableContainer-root MuiPaper-elevation1 MuiPaper-rounded"
+  >
+    <table
+      aria-label="simple table"
+      className="MuiTable-root tableStyle"
+      role={null}
+    >
+      <thead
+        className="MuiTableHead-root"
+        role={null}
+      >
+        <tr
+          className="MuiTableRow-root MuiTableRow-head"
+          role={null}
+        >
+          <th
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-head"
+            scope="col"
+          >
+            Year
+          </th>
+          <th
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-head MuiTableCell-alignRight"
+            scope="col"
+          >
+            Total Returns
+          </th>
+          <th
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-head MuiTableCell-alignRight"
+            scope="col"
+          >
+            Cumulative Returns
+          </th>
+        </tr>
+      </thead>
+      <tbody
+        className="MuiTableBody-root"
+        role={null}
+      >
+        <tr
+          className="MuiTableRow-root rows MuiTableRow-hover"
+          role={null}
+        >
+          <th
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body"
+            role="cell"
+            scope="row"
+          >
+            1940
+          </th>
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+            style={
+              Object {
+                "color": "red",
+              }
+            }
+          >
+            -9.78
+          </td>
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+          >
+            -9.78
+          </td>
+        </tr>
+        <tr
+          className="MuiTableRow-root rows MuiTableRow-hover"
+          role={null}
+        >
+          <th
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body"
+            role="cell"
+            scope="row"
+          >
+            1941
+          </th>
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+            style={
+              Object {
+                "color": "red",
+              }
+            }
+          >
+            -11.59
+          </td>
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+          >
+            -21.37
+          </td>
+        </tr>
+        <tr
+          className="MuiTableRow-root rows MuiTableRow-hover"
+          role={null}
+        >
+          <th
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body"
+            role="cell"
+            scope="row"
+          >
+            1942
+          </th>
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+          >
+            20.34
+          </td>
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+          >
+            -1.03
+          </td>
+        </tr>
+        <tr
+          className="MuiTableRow-root rows MuiTableRow-hover"
+          role={null}
+        >
+          <th
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body"
+            role="cell"
+            scope="row"
+          >
+            1943
+          </th>
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+          >
+            25.90
+          </td>
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+          >
+            24.87
+          </td>
+        </tr>
+        <tr
+          className="MuiTableRow-root rows MuiTableRow-hover"
+          role={null}
+        >
+          <th
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body"
+            role="cell"
+            scope="row"
+          >
+            1944
+          </th>
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+          >
+            19.75
+          </td>
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+          >
+            44.62
+          </td>
+        </tr>
+        <tr
+          className="MuiTableRow-root rows MuiTableRow-hover"
+          role={null}
+        >
+          <th
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body"
+            role="cell"
+            scope="row"
+          >
+            1945
+          </th>
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+          >
+            36.44
+          </td>
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+          >
+            81.06
+          </td>
+        </tr>
+        <tr
+          className="MuiTableRow-root rows MuiTableRow-hover"
+          role={null}
+        >
+          <th
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body"
+            role="cell"
+            scope="row"
+          >
+            1946
+          </th>
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+            style={
+              Object {
+                "color": "red",
+              }
+            }
+          >
+            -8.07
+          </td>
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+          >
+            72.99
+          </td>
+        </tr>
+        <tr
+          className="MuiTableRow-root rows MuiTableRow-hover"
+          role={null}
+        >
+          <th
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body"
+            role="cell"
+            scope="row"
+          >
+            1947
+          </th>
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+          >
+            5.71
+          </td>
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+          >
+            78.7
+          </td>
+        </tr>
+        <tr
+          className="MuiTableRow-root rows MuiTableRow-hover"
+          role={null}
+        >
+          <th
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body"
+            role="cell"
+            scope="row"
+          >
+            1948
+          </th>
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+          >
+            5.50
+          </td>
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+          >
+            84.2
+          </td>
+        </tr>
+        <tr
+          className="MuiTableRow-root rows MuiTableRow-hover"
+          role={null}
+        >
+          <th
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body"
+            role="cell"
+            scope="row"
+          >
+            1949
+          </th>
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+          >
+            18.79
+          </td>
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+          >
+            102.99
+          </td>
+        </tr>
+        <tr
+          className="MuiTableRow-root rows MuiTableRow-hover"
+          role={null}
+        >
+          <th
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body"
+            role="cell"
+            scope="row"
+          >
+            1950
+          </th>
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+          >
+            31.71
+          </td>
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+          >
+            134.7
+          </td>
+        </tr>
+        <tr
+          className="MuiTableRow-root rows MuiTableRow-hover"
+          role={null}
+        >
+          <th
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body"
+            role="cell"
+            scope="row"
+          >
+            1951
+          </th>
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+          >
+            24.02
+          </td>
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+          >
+            158.72
+          </td>
+        </tr>
+        <tr
+          className="MuiTableRow-root rows MuiTableRow-hover"
+          role={null}
+        >
+          <th
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body"
+            role="cell"
+            scope="row"
+          >
+            1952
+          </th>
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+          >
+            18.37
+          </td>
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+          >
+            177.09
+          </td>
+        </tr>
+        <tr
+          className="MuiTableRow-root rows MuiTableRow-hover"
+          role={null}
+        >
+          <th
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body"
+            role="cell"
+            scope="row"
+          >
+            1953
+          </th>
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+            style={
+              Object {
+                "color": "red",
+              }
+            }
+          >
+            -0.99
+          </td>
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+          >
+            176.1
+          </td>
+        </tr>
+        <tr
+          className="MuiTableRow-root rows MuiTableRow-hover"
+          role={null}
+        >
+          <th
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body"
+            role="cell"
+            scope="row"
+          >
+            1954
+          </th>
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+          >
+            52.62
+          </td>
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+          >
+            228.72
+          </td>
+        </tr>
+        <tr
+          className="MuiTableRow-root rows MuiTableRow-hover"
+          role={null}
+        >
+          <th
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body"
+            role="cell"
+            scope="row"
+          >
+            1955
+          </th>
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+          >
+            31.56
+          </td>
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+          >
+            260.28
+          </td>
+        </tr>
+        <tr
+          className="MuiTableRow-root rows MuiTableRow-hover"
+          role={null}
+        >
+          <th
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body"
+            role="cell"
+            scope="row"
+          >
+            1956
+          </th>
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+          >
+            6.56
+          </td>
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+          >
+            266.84
+          </td>
+        </tr>
+        <tr
+          className="MuiTableRow-root rows MuiTableRow-hover"
+          role={null}
+        >
+          <th
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body"
+            role="cell"
+            scope="row"
+          >
+            1957
+          </th>
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+            style={
+              Object {
+                "color": "red",
+              }
+            }
+          >
+            -10.78
+          </td>
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+          >
+            256.06
+          </td>
+        </tr>
+        <tr
+          className="MuiTableRow-root rows MuiTableRow-hover"
+          role={null}
+        >
+          <th
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body"
+            role="cell"
+            scope="row"
+          >
+            1958
+          </th>
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+          >
+            43.36
+          </td>
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+          >
+            299.42
+          </td>
+        </tr>
+        <tr
+          className="MuiTableRow-root rows MuiTableRow-hover"
+          role={null}
+        >
+          <th
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body"
+            role="cell"
+            scope="row"
+          >
+            1959
+          </th>
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+          >
+            11.96
+          </td>
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+          >
+            311.38
+          </td>
+        </tr>
+        <tr
+          className="MuiTableRow-root rows MuiTableRow-hover"
+          role={null}
+        >
+          <th
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body"
+            role="cell"
+            scope="row"
+          >
+            1960
+          </th>
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+          >
+            0.47
+          </td>
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+          >
+            311.85
+          </td>
+        </tr>
+        <tr
+          className="MuiTableRow-root rows MuiTableRow-hover"
+          role={null}
+        >
+          <th
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body"
+            role="cell"
+            scope="row"
+          >
+            1961
+          </th>
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+          >
+            26.89
+          </td>
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+          >
+            338.74
+          </td>
+        </tr>
+        <tr
+          className="MuiTableRow-root rows MuiTableRow-hover"
+          role={null}
+        >
+          <th
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body"
+            role="cell"
+            scope="row"
+          >
+            1962
+          </th>
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+            style={
+              Object {
+                "color": "red",
+              }
+            }
+          >
+            -8.73
+          </td>
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+          >
+            330.01
+          </td>
+        </tr>
+        <tr
+          className="MuiTableRow-root rows MuiTableRow-hover"
+          role={null}
+        >
+          <th
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body"
+            role="cell"
+            scope="row"
+          >
+            1963
+          </th>
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+          >
+            22.80
+          </td>
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+          >
+            352.81
+          </td>
+        </tr>
+        <tr
+          className="MuiTableRow-root rows MuiTableRow-hover"
+          role={null}
+        >
+          <th
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body"
+            role="cell"
+            scope="row"
+          >
+            1964
+          </th>
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+          >
+            16.48
+          </td>
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+          >
+            369.29
+          </td>
+        </tr>
+        <tr
+          className="MuiTableRow-root rows MuiTableRow-hover"
+          role={null}
+        >
+          <th
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body"
+            role="cell"
+            scope="row"
+          >
+            1965
+          </th>
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+          >
+            12.45
+          </td>
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+          >
+            381.74
+          </td>
+        </tr>
+        <tr
+          className="MuiTableRow-root rows MuiTableRow-hover"
+          role={null}
+        >
+          <th
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body"
+            role="cell"
+            scope="row"
+          >
+            1966
+          </th>
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+            style={
+              Object {
+                "color": "red",
+              }
+            }
+          >
+            -10.06
+          </td>
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+          >
+            371.68
+          </td>
+        </tr>
+        <tr
+          className="MuiTableRow-root rows MuiTableRow-hover"
+          role={null}
+        >
+          <th
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body"
+            role="cell"
+            scope="row"
+          >
+            1967
+          </th>
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+          >
+            23.98
+          </td>
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+          >
+            395.66
+          </td>
+        </tr>
+        <tr
+          className="MuiTableRow-root rows MuiTableRow-hover"
+          role={null}
+        >
+          <th
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body"
+            role="cell"
+            scope="row"
+          >
+            1968
+          </th>
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+          >
+            11.06
+          </td>
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+          >
+            406.72
+          </td>
+        </tr>
+        <tr
+          className="MuiTableRow-root rows MuiTableRow-hover"
+          role={null}
+        >
+          <th
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body"
+            role="cell"
+            scope="row"
+          >
+            1969
+          </th>
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+            style={
+              Object {
+                "color": "red",
+              }
+            }
+          >
+            -8.50
+          </td>
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+          >
+            398.22
+          </td>
+        </tr>
+        <tr
+          className="MuiTableRow-root rows MuiTableRow-hover"
+          role={null}
+        >
+          <th
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body"
+            role="cell"
+            scope="row"
+          >
+            1970
+          </th>
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+          >
+            4.01
+          </td>
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+          >
+            402.23
+          </td>
+        </tr>
+        <tr
+          className="MuiTableRow-root rows MuiTableRow-hover"
+          role={null}
+        >
+          <th
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body"
+            role="cell"
+            scope="row"
+          >
+            1971
+          </th>
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+          >
+            14.31
+          </td>
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+          >
+            416.54
+          </td>
+        </tr>
+        <tr
+          className="MuiTableRow-root rows MuiTableRow-hover"
+          role={null}
+        >
+          <th
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body"
+            role="cell"
+            scope="row"
+          >
+            1972
+          </th>
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+          >
+            18.98
+          </td>
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+          >
+            435.52
+          </td>
+        </tr>
+        <tr
+          className="MuiTableRow-root rows MuiTableRow-hover"
+          role={null}
+        >
+          <th
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body"
+            role="cell"
+            scope="row"
+          >
+            1973
+          </th>
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+            style={
+              Object {
+                "color": "red",
+              }
+            }
+          >
+            -14.66
+          </td>
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+          >
+            420.86
+          </td>
+        </tr>
+        <tr
+          className="MuiTableRow-root rows MuiTableRow-hover"
+          role={null}
+        >
+          <th
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body"
+            role="cell"
+            scope="row"
+          >
+            1974
+          </th>
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+            style={
+              Object {
+                "color": "red",
+              }
+            }
+          >
+            -26.47
+          </td>
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+          >
+            394.39
+          </td>
+        </tr>
+        <tr
+          className="MuiTableRow-root rows MuiTableRow-hover"
+          role={null}
+        >
+          <th
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body"
+            role="cell"
+            scope="row"
+          >
+            1975
+          </th>
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+          >
+            37.20
+          </td>
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+          >
+            431.59
+          </td>
+        </tr>
+        <tr
+          className="MuiTableRow-root rows MuiTableRow-hover"
+          role={null}
+        >
+          <th
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body"
+            role="cell"
+            scope="row"
+          >
+            1976
+          </th>
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+          >
+            23.84
+          </td>
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+          >
+            455.43
+          </td>
+        </tr>
+        <tr
+          className="MuiTableRow-root rows MuiTableRow-hover"
+          role={null}
+        >
+          <th
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body"
+            role="cell"
+            scope="row"
+          >
+            1977
+          </th>
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+            style={
+              Object {
+                "color": "red",
+              }
+            }
+          >
+            -7.18
+          </td>
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+          >
+            448.25
+          </td>
+        </tr>
+        <tr
+          className="MuiTableRow-root rows MuiTableRow-hover"
+          role={null}
+        >
+          <th
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body"
+            role="cell"
+            scope="row"
+          >
+            1978
+          </th>
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+          >
+            6.56
+          </td>
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+          >
+            454.81
+          </td>
+        </tr>
+        <tr
+          className="MuiTableRow-root rows MuiTableRow-hover"
+          role={null}
+        >
+          <th
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body"
+            role="cell"
+            scope="row"
+          >
+            1979
+          </th>
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+          >
+            18.44
+          </td>
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+          >
+            473.25
+          </td>
+        </tr>
+        <tr
+          className="MuiTableRow-root rows MuiTableRow-hover"
+          role={null}
+        >
+          <th
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body"
+            role="cell"
+            scope="row"
+          >
+            1980
+          </th>
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+          >
+            32.42
+          </td>
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+          >
+            505.67
+          </td>
+        </tr>
+        <tr
+          className="MuiTableRow-root rows MuiTableRow-hover"
+          role={null}
+        >
+          <th
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body"
+            role="cell"
+            scope="row"
+          >
+            1981
+          </th>
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+            style={
+              Object {
+                "color": "red",
+              }
+            }
+          >
+            -4.91
+          </td>
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+          >
+            500.76
+          </td>
+        </tr>
+        <tr
+          className="MuiTableRow-root rows MuiTableRow-hover"
+          role={null}
+        >
+          <th
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body"
+            role="cell"
+            scope="row"
+          >
+            1982
+          </th>
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+          >
+            21.55
+          </td>
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+          >
+            522.31
+          </td>
+        </tr>
+        <tr
+          className="MuiTableRow-root rows MuiTableRow-hover"
+          role={null}
+        >
+          <th
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body"
+            role="cell"
+            scope="row"
+          >
+            1983
+          </th>
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+          >
+            22.56
+          </td>
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+          >
+            544.87
+          </td>
+        </tr>
+        <tr
+          className="MuiTableRow-root rows MuiTableRow-hover"
+          role={null}
+        >
+          <th
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body"
+            role="cell"
+            scope="row"
+          >
+            1984
+          </th>
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+          >
+            6.27
+          </td>
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+          >
+            551.14
+          </td>
+        </tr>
+        <tr
+          className="MuiTableRow-root rows MuiTableRow-hover"
+          role={null}
+        >
+          <th
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body"
+            role="cell"
+            scope="row"
+          >
+            1985
+          </th>
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+          >
+            31.73
+          </td>
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+          >
+            582.87
+          </td>
+        </tr>
+        <tr
+          className="MuiTableRow-root rows MuiTableRow-hover"
+          role={null}
+        >
+          <th
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body"
+            role="cell"
+            scope="row"
+          >
+            1986
+          </th>
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+          >
+            18.67
+          </td>
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+          >
+            601.54
+          </td>
+        </tr>
+        <tr
+          className="MuiTableRow-root rows MuiTableRow-hover"
+          role={null}
+        >
+          <th
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body"
+            role="cell"
+            scope="row"
+          >
+            1987
+          </th>
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+          >
+            5.25
+          </td>
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+          >
+            606.79
+          </td>
+        </tr>
+        <tr
+          className="MuiTableRow-root rows MuiTableRow-hover"
+          role={null}
+        >
+          <th
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body"
+            role="cell"
+            scope="row"
+          >
+            1988
+          </th>
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+          >
+            16.61
+          </td>
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+          >
+            623.4
+          </td>
+        </tr>
+        <tr
+          className="MuiTableRow-root rows MuiTableRow-hover"
+          role={null}
+        >
+          <th
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body"
+            role="cell"
+            scope="row"
+          >
+            1989
+          </th>
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+          >
+            31.69
+          </td>
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+          >
+            655.09
+          </td>
+        </tr>
+        <tr
+          className="MuiTableRow-root rows MuiTableRow-hover"
+          role={null}
+        >
+          <th
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body"
+            role="cell"
+            scope="row"
+          >
+            1990
+          </th>
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+            style={
+              Object {
+                "color": "red",
+              }
+            }
+          >
+            -3.10
+          </td>
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+          >
+            651.99
+          </td>
+        </tr>
+        <tr
+          className="MuiTableRow-root rows MuiTableRow-hover"
+          role={null}
+        >
+          <th
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body"
+            role="cell"
+            scope="row"
+          >
+            1991
+          </th>
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+          >
+            30.47
+          </td>
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+          >
+            682.46
+          </td>
+        </tr>
+        <tr
+          className="MuiTableRow-root rows MuiTableRow-hover"
+          role={null}
+        >
+          <th
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body"
+            role="cell"
+            scope="row"
+          >
+            1992
+          </th>
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+          >
+            7.62
+          </td>
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+          >
+            690.08
+          </td>
+        </tr>
+        <tr
+          className="MuiTableRow-root rows MuiTableRow-hover"
+          role={null}
+        >
+          <th
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body"
+            role="cell"
+            scope="row"
+          >
+            1993
+          </th>
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+          >
+            10.08
+          </td>
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+          >
+            700.16
+          </td>
+        </tr>
+        <tr
+          className="MuiTableRow-root rows MuiTableRow-hover"
+          role={null}
+        >
+          <th
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body"
+            role="cell"
+            scope="row"
+          >
+            1994
+          </th>
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+          >
+            1.32
+          </td>
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+          >
+            701.48
+          </td>
+        </tr>
+        <tr
+          className="MuiTableRow-root rows MuiTableRow-hover"
+          role={null}
+        >
+          <th
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body"
+            role="cell"
+            scope="row"
+          >
+            1995
+          </th>
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+          >
+            37.58
+          </td>
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+          >
+            739.06
+          </td>
+        </tr>
+        <tr
+          className="MuiTableRow-root rows MuiTableRow-hover"
+          role={null}
+        >
+          <th
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body"
+            role="cell"
+            scope="row"
+          >
+            1996
+          </th>
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+          >
+            22.96
+          </td>
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+          >
+            762.02
+          </td>
+        </tr>
+        <tr
+          className="MuiTableRow-root rows MuiTableRow-hover"
+          role={null}
+        >
+          <th
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body"
+            role="cell"
+            scope="row"
+          >
+            1997
+          </th>
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+          >
+            33.36
+          </td>
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+          >
+            795.38
+          </td>
+        </tr>
+        <tr
+          className="MuiTableRow-root rows MuiTableRow-hover"
+          role={null}
+        >
+          <th
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body"
+            role="cell"
+            scope="row"
+          >
+            1998
+          </th>
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+          >
+            28.58
+          </td>
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+          >
+            823.96
+          </td>
+        </tr>
+        <tr
+          className="MuiTableRow-root rows MuiTableRow-hover"
+          role={null}
+        >
+          <th
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body"
+            role="cell"
+            scope="row"
+          >
+            1999
+          </th>
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+          >
+            21.04
+          </td>
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+          >
+            845
+          </td>
+        </tr>
+        <tr
+          className="MuiTableRow-root rows MuiTableRow-hover"
+          role={null}
+        >
+          <th
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body"
+            role="cell"
+            scope="row"
+          >
+            2000
+          </th>
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+            style={
+              Object {
+                "color": "red",
+              }
+            }
+          >
+            -9.10
+          </td>
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+          >
+            835.9
+          </td>
+        </tr>
+        <tr
+          className="MuiTableRow-root rows MuiTableRow-hover"
+          role={null}
+        >
+          <th
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body"
+            role="cell"
+            scope="row"
+          >
+            2001
+          </th>
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+            style={
+              Object {
+                "color": "red",
+              }
+            }
+          >
+            -11.89
+          </td>
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+          >
+            824.01
+          </td>
+        </tr>
+        <tr
+          className="MuiTableRow-root rows MuiTableRow-hover"
+          role={null}
+        >
+          <th
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body"
+            role="cell"
+            scope="row"
+          >
+            2002
+          </th>
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+            style={
+              Object {
+                "color": "red",
+              }
+            }
+          >
+            -22.10
+          </td>
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+          >
+            801.91
+          </td>
+        </tr>
+        <tr
+          className="MuiTableRow-root rows MuiTableRow-hover"
+          role={null}
+        >
+          <th
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body"
+            role="cell"
+            scope="row"
+          >
+            2003
+          </th>
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+          >
+            28.68
+          </td>
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+          >
+            830.59
+          </td>
+        </tr>
+        <tr
+          className="MuiTableRow-root rows MuiTableRow-hover"
+          role={null}
+        >
+          <th
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body"
+            role="cell"
+            scope="row"
+          >
+            2004
+          </th>
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+          >
+            10.88
+          </td>
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+          >
+            841.47
+          </td>
+        </tr>
+        <tr
+          className="MuiTableRow-root rows MuiTableRow-hover"
+          role={null}
+        >
+          <th
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body"
+            role="cell"
+            scope="row"
+          >
+            2005
+          </th>
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+          >
+            4.91
+          </td>
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+          >
+            846.38
+          </td>
+        </tr>
+        <tr
+          className="MuiTableRow-root rows MuiTableRow-hover"
+          role={null}
+        >
+          <th
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body"
+            role="cell"
+            scope="row"
+          >
+            2006
+          </th>
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+          >
+            15.79
+          </td>
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+          >
+            862.17
+          </td>
+        </tr>
+        <tr
+          className="MuiTableRow-root rows MuiTableRow-hover"
+          role={null}
+        >
+          <th
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body"
+            role="cell"
+            scope="row"
+          >
+            2007
+          </th>
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+          >
+            5.49
+          </td>
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+          >
+            867.66
+          </td>
+        </tr>
+        <tr
+          className="MuiTableRow-root rows MuiTableRow-hover"
+          role={null}
+        >
+          <th
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body"
+            role="cell"
+            scope="row"
+          >
+            2008
+          </th>
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+            style={
+              Object {
+                "color": "red",
+              }
+            }
+          >
+            -37.00
+          </td>
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+          >
+            830.66
+          </td>
+        </tr>
+        <tr
+          className="MuiTableRow-root rows MuiTableRow-hover"
+          role={null}
+        >
+          <th
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body"
+            role="cell"
+            scope="row"
+          >
+            2009
+          </th>
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+          >
+            26.46
+          </td>
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+          >
+            857.12
+          </td>
+        </tr>
+        <tr
+          className="MuiTableRow-root rows MuiTableRow-hover"
+          role={null}
+        >
+          <th
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body"
+            role="cell"
+            scope="row"
+          >
+            2010
+          </th>
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+          >
+            15.06
+          </td>
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+          >
+            872.18
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</div>
+`;
